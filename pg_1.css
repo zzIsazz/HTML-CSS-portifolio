@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+    font-family:'Oswald';
+    color:rgb(0, 0, 0);
+    
+}
+
+h1, h2 {
+    text-align: center;
+    margin-top: -7px;
+}
+
+p {
+    text-align: center;
+    margin-top: -7px;
+}
+
+ul {
+    color: palevioletred;
+    font-size: 20px;
+    text-align: center;
+}
+hover {width: 300px;}
+button {
+ color: pink;
+ background-color: black;
+ padding: 30px 50px;
+ align-items: center;
+ border-radius: 50px;
+ font-size: 40px;
+}
+button:hover{
+    color: rgb(0, 255, 213);
+    border: solid rgb(0, 255, 213);
+}
+
+
+div {
+ text-align: center;
+}
